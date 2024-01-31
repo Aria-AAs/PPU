@@ -5,7 +5,7 @@ A Python package updater application which is written in Python by Aria-AAs
 [![Static Badge](https://img.shields.io/badge/Author-Aria--AAs-orange?style=plastic&link=https%3A%2F%2Fgithub.com%2FAria-AAs)](https://github.com/Aria-AAs)
 [![Static Badge](https://img.shields.io/badge/License-GPL_V3-brightgreen?style=plastic&link=https%3A%2F%2Fgithub.com%2FAria-AAs%2FPPU%2Fblob%2Fmain%2FLICENSE)](https://github.com/Aria-AAs/PPU/blob/main/LICENSE)
 [![Static Badge](https://img.shields.io/badge/build-Python-blue?style=plastic&label=Language&link=https%3A%2F%2Fgithub.com%2FAriaAs5%2Fpassword_manager%2Fblob%2Fmain%2FLICENSE)](https://www.python.org/)
-[![Static Badge](https://img.shields.io/badge/Lines_of_code-79-purple?style=plastic)](https://github.com/Aria-AAs/PPU)
+[![Static Badge](https://img.shields.io/badge/Lines_of_code-79-purple?style=plastic)](https://github.com/Aria-AAs/PPU/blob/main/main.py)
 
 ## What PPU is?
 
