@@ -14,7 +14,7 @@ PPU stands for **Python package updater**. It is a command-line program that che
 ## How to use PPU.
 
 1. Download the `main.py` file in the repository.
-2. Open a command prompt.
+2. Open a command prompt or terminal.
 3. type `python --version` and press enter to make sure Python is installed on your system.
     - if it tells you that Python is not installed on your device you should go to `www.python.org`, download the latest version of Python and install it.
 4. go to the directory where the main.py file is there using the `cd directory_path` command.
