@@ -11,7 +11,7 @@ A Python package updater application which is written in Python by Aria-AAs
 
 PPU stands for **Python package updater**. It is a command-line program that checks for outdated Python packages and updates them using pip.
 
-## How to use PPU.
+## How to use PPU?
 
 1. Download the `main.py` file in the repository.
 2. Open a command prompt or terminal.
