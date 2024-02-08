@@ -1,5 +1,6 @@
 """A module that check for outdated package and update them
 """
+
 import subprocess
 import re
 
